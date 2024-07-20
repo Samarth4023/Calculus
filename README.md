@@ -42,4 +42,7 @@ If you have any questions or need further assistance, feel free to reach out:
 
 At my profile / Readme.md :)
 
-Thank you for visiting this repository. Happy learning! 🌟
+Thank you for visiting this repository. 
+
+---
+Happy learning! 🌟
